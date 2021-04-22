@@ -1,10 +1,9 @@
 # Antidot NO FLoC Middleware
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/antidot-framework/no-floc-middleware/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/antidot-framework/no-floc-middleware/?branch=1.x.x)
-[![Code Coverage](https://scrutinizer-ci.com/g/antidot-framework/no-floc-middleware/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/antidot-framework/no-floc-middleware/?branch=1.x.x)
-[![Infection MSI](https://badge.stryker-mutator.io/github.com/antidot-framework/no-floc-middleware/1.x.x)](https://infection.github.io)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/antidot-framework/no-floc-middleware/badges/quality-score.png?b=1.x.x)](https://scrutinizer-ci.com/g/antidot-framework/no-floc-middleware/?branch=1.x.x)
+[![Code Coverage](https://scrutinizer-ci.com/g/antidot-framework/no-floc-middleware/badges/coverage.png?b=1.x.x)](https://scrutinizer-ci.com/g/antidot-framework/no-floc-middleware/?branch=1.x.x)
 [![Type Coverage](https://shepherd.dev/github/antidot-framework/no-floc-middleware/coverage.svg)](https://shepherd.dev/github/antidot-framework/no-floc-middleware)
-[![Build Status](https://scrutinizer-ci.com/g/antidot-framework/no-floc-middleware/badges/build.png?b=master)](https://scrutinizer-ci.com/g/antidot-framework/no-floc-middleware/build-status/1.x.x)
+[![Build Status](https://scrutinizer-ci.com/g/antidot-framework/no-floc-middleware/badges/build.png?b=1.x.x)](https://scrutinizer-ci.com/g/antidot-framework/no-floc-middleware/build-status/1.x.x)
 
 PSR-15 middleware to opting your Website out of Google's FLoC Network
 
