@@ -1,6 +1,14 @@
 # Changelog
 
-## [1.0.2](https://github.com/antidot-framework/no-floc-middleware/tree/1.0.2) 
+## [1.0.3](https://github.com/antidot-framework/no-floc-middleware/tree/1.0.3)
+
+[Full Changelog](https://github.com/antidot-framework/no-floc-middleware/compare/1.0.2...1.0.3)
+
+**Bug fix:**
+
+- Fix config provider namespace in composer ([kpicaza](https://github.com/kpicaza))
+
+## [1.0.2](https://github.com/antidot-framework/no-floc-middleware/tree/1.0.2) (2021-06-05)
 
 [Full Changelog](https://github.com/antidot-framework/no-floc-middleware/compare/1.0.1...1.0.2)
 
