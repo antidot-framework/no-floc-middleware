@@ -13,8 +13,10 @@ final class NoFLoCMiddleware implements MiddlewareInterface
 {
     public function process(ServerRequestInterface $request, RequestHandlerInterface $handler): ResponseInterface
     {
-        $request = $request->withHeader('Permission-Policy', 'interest-cohort=()');
+        $response = $handler->handle($request);
 
-        return $handler->handle($request);
+        $response->withAddedHeader('Permission-Policy', 'interest-cohort=()');
+
+        return $response;
     }
 }
