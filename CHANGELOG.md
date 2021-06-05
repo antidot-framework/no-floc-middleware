@@ -1,6 +1,15 @@
 # Changelog
 
-## [1.0.1](https://github.com/antidot-framework/no-floc-middleware/tree/1.0.1)
+## [1.0.2](https://github.com/antidot-framework/no-floc-middleware/tree/1.0.2) 
+
+[Full Changelog](https://github.com/antidot-framework/no-floc-middleware/compare/1.0.1...1.0.2)
+
+**Bug fix:**
+
+- Add Permission-Policy header on response ([kpicaza](https://github.com/kpicaza))
+
+
+## [1.0.1](https://github.com/antidot-framework/no-floc-middleware/tree/1.0.1) (2021-04-22)
 
 [Full Changelog](https://github.com/antidot-framework/no-floc-middleware/compare/1.0.0...1.0.1)
 
