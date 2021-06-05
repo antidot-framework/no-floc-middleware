@@ -56,7 +56,7 @@
     },
     "extra": {
         "laminas": {
-            "config-provider": "Antidot\\NoFLoC\\Container\\Config\\ConfigProvider"
+            "config-provider": "Antidot\\NoFLoC\\ConfigProvider"
         }
     }
 }
